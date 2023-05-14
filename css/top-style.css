@@ -1,0 +1,34 @@
+header {
+    height: 9rem;
+}
+
+.top-banner {
+    width: 100%;
+}
+
+.flex_menu-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.flex_menu-item {
+    padding: 1rem;
+    color: #000;
+    background-color: #fff;
+    margin: 0.5rem;
+    border: 0.2rem solid #91e3ff;
+    border-radius: 0.5rem;
+    width: 22rem;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+.flex_menu-item:hover {
+    background-color: #ccf2ff;
+}
+
+.flex_menu-item img {
+    width: 20rem;
+}
